@@ -65,3 +65,27 @@ button {
   box-shadow: 2px 2px 5px #000;
   padding: 0.25rem;
 }
+@media only screen and (max-width: 600px) {
+  
+  
+.square {
+  width: 200px;
+  height: 200px;
+}
+
+form {
+  width: 200px;
+}
+
+button {
+  font-size: 20px;
+
+}
+
+input[type="text"] {
+
+  font-size: 20px;
+}
+
+
+}
